@@ -1,0 +1,1 @@
+django==4.1.8  # pyup: < 4.2  # https://www.djangoproject.com/
